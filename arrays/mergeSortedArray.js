@@ -1,5 +1,6 @@
 //T.C: O(N+M)
 //S.C : O(1)
+
 const merge = (nums1, m, nums2, n) => {
 	let p1 = m - 1;
 	let p2 = n - 1;
